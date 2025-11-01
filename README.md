@@ -1,7 +1,7 @@
 # SQL-PizzaSalesAnalysisProject
 ---
 
-### Project Overview-
+### Project Overview
 Statistical Analysis of the pizza store with available dataset:
 - "pizzas.csv"
 - "pizza_types.csv"
@@ -10,12 +10,12 @@ Statistical Analysis of the pizza store with available dataset:
 Using some basic to advance question in MYSQL for our Analysis.
 ---
 
-### Tools-
+### Tools
 MySql-Server
 
 ---
 
-### Analysis Questions-
+### Analysis Questions
 - Basic:
   - Retrieve the total number of orders placed.
   - Calculate the total revenue generated from pizza sales.
